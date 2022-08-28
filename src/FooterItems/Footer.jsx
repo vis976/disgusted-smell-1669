@@ -65,12 +65,12 @@ const Footer = () => {
             </Stack>
             <Stack align={"flex-start"}>
               <ListHeader className="contain">Money</ListHeader>
-              <NavLink to={"/"} className="contain">MUTUAL FUNDS </NavLink>
-              <NavLink to={"/"} className="contain">INSURANCE </NavLink>
-              <NavLink to={"/"} className="contain">EQUILTY</NavLink>
-              <NavLink to={"/"}>FIXED ASSETS</NavLink>
-              <NavLink to={"/"} className="contain">BANKING</NavLink>
-              <NavLink to={"/"} className="contain">ASK</NavLink>
+              <NavLink to={"/BUSINESS"} className="contain">MUTUAL FUNDS </NavLink>
+              <NavLink to={"/BUSINESS"} className="contain">INSURANCE </NavLink>
+              <NavLink to={"/BUSINESS"} className="contain">EQUILTY</NavLink>
+              <NavLink to={"/BUSINESS"}>FIXED ASSETS</NavLink>
+              <NavLink to={"/BUSINESS"} className="contain">BANKING</NavLink>
+              <NavLink to={"/BUSINESS"} className="contain">ASK</NavLink>
             </Stack>
             <Stack align={"flex-start"}>
               <ListHeader className="contain">Follow Us</ListHeader>

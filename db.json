@@ -1,0 +1,225 @@
+{
+    "articles": [
+      {
+        "source": {  "name": "Ghacks Technology News" },
+        "id": 1,
+        "author": "Ashwin",
+        "title": "Here are the new features in macOS Ventura's Mail app",
+        "description": "Spotlight is not the only app that Apple has improved in macOS Ventura. The Mail app has received similar treatment, let's take a look at the new features in it. Undo Send […]\nThank you for being a Ghacks reader. The post Here are the new features in macOS Ve…",
+        "url": "https://www.ghacks.net/2022/06/14/new-features-in-macos-venturas-mail-app/",
+        "urlToImage": "https://www.ghacks.net/wp-content/uploads/2022/06/new-features-in-macOS-Venturas-Mail-app-rich-links.jpg",
+        "publishedAt": "2022-06-14T04:23:48Z",
+        "content": "Spotlight is not the only app that Apple has improved in macOS Ventura. The Mail app has received similar treatment, let's take a look at the new features in it.\r\nUndo Send\r\nThis is perhaps the best … [+3932 chars]"
+      },
+      {
+        "source": { "name": "Mssqltips.com" },
+        "id": 2,
+        "author": "Sean Lee",
+        "title": "Study material for Exam PL-300: Microsoft Power BI Data Analyst | Turn off 6792 and Re-Direct",
+        "description": "Check out this large lists of resources you can use to study and pass the Microsoft exam PL-300 Microsoft Power BI Data Analyst.",
+        "url": "https://www.mssqltips.com/sqlservertip/7285/microsoft-exam-pl-300-microsoft-power-bi-data-analyst-prep-guide/",
+        "urlToImage": "https://www.mssqltips.com/images_newsletter/7285_NewsletterImage.png",
+        "publishedAt": "2022-06-14T04:20:03Z",
+        "content": "By: Sean Lee   |   Updated: 2022-06-14   |   Comments   |   Related: More &gt; Professional Development Certifications\r\nProblem\r\nPL-300: Microsoft Power BI Data Analyst is a Microsoft’s\r\nreplacement … [+4239 chars]"
+      },
+      {
+        "source": {  "name": "Pypi.org" },
+        "id":3,
+        "author": "project2@teamturing.com",
+        "title": "zappa-teamturing added to PyPI",
+        "description": "Server-less Python Web Services for AWS Lambda and API Gateway",
+        "url": "https://pypi.org/project/zappa-teamturing/",
+        "urlToImage": "https://pypi.org/static/images/twitter.6fecba6f.jpg",
+        "publishedAt": "2022-06-14T03:27:20Z",
+        "content": "Zappa - Serverless Python\r\nAbout\r\nIn a hurry? Click to see (now slightly out-dated) slides from Serverless SF!\r\nZappa makes it super easy to build and deploy server-less, event-driven Python applicat… [+63888 chars]"
+      },
+      {
+        "source": { "name": "Idc.com" },
+        "id": 4, 
+        "author": null,
+        "title": "Asia/Pacific* Internet of Things Spending to Reach $436 Billion in 2026, Says IDC - IDC",
+        "description": "IDC examines consumer markets by devices, applications, networks, and services to provide complete solutions for succeeding in these expanding markets.",
+        "url": "https://www.idc.com/getdoc.jsp?containerId=prAP49284322",
+        "urlToImage": "https://cdn.idc.com/RESOURCES/PROJECTS/research/images/dynamic-imgs/4_1820/techbuyer-04-31afd80d4fe27436400b1636c40ffa9d.jpg",
+        "publishedAt": "2022-06-14T02:04:44Z",
+        "content": "SINGAPORE, June 14, 2022 According to IDC's latest Worldwide Semiannual Internet of Things Spending Guide , the IoT market in Asia/Pacific* will continue to grow in 2022 by 9.1%, accelerating from 6.… [+5953 chars]"
+      },
+      {
+        "source": {  "name": "Salesforce.com" },
+        "id": 5,
+        "author": null,
+        "title": "CRM Analytics - Mobile - Japanese device language interferes with Salesforce language setting",
+        "description": "#In Review#In Analytics mobile app of iOS,Japanese device language interferes with Salesforce language setting",
+        "url": "https://trailblazer.salesforce.com/issues_view?id=a1p4V0000013sF3QAI",
+        "urlToImage": null,
+        "publishedAt": "2022-06-14T01:36:35Z",
+        "content": "CRM Analytics - Mobile - Japanese device language interferes with Salesforce language setting\r\nLast updated Today\r\n·Reference W-11288244\r\n·Reported By 0 users\r\nIn Review\r\nSummaryIn Analytics mobile a… [+1910 chars]"
+      },
+      {
+        "source": {  "name": "The Punch" },
+        "id":6,
+        "author": "Agency Report",
+        "title": "Strike: ASUU to sanction non-complying chapters",
+        "description": "The Academic Staff Union of Universities has threatened to query universities that have failed to comply with its decision to remain on strike while negotiations with the Federal Government continue. ASUU President, Prof Emmanuel Osodeke, said this in an inte…",
+        "url": "https://punchng.com/strike-asuu-to-sanction-non-complying-chapters/",
+        "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2021/07/24151007/ASUU-President-Prof-Emmanuel-Osodeke.jpg",
+        "publishedAt": "2022-06-14T01:35:32Z",
+        "content": "The Academic Staff Union of Universities has threatened to query universities that have failed to comply with its decision to remain on strike while negotiations with the Federal Government continue.… [+1513 chars]"
+      },
+      {
+        "source": {  "name": "Stackoverflow.com" },
+        "id":7,
+        "author": "Stack Overflow",
+        "title": "TypeError: 'ModelBase' object is not iterable when trying to use Exclude",
+        "description": "I have the following two models:\nclass Listings(models.Model):\n CATEGORY = [\n (\"Miscellaneous\", \"Miscellaneous\"),\n (\"Movies and Television\", \"Movies and Television\"),\n (\"Sports\", \"Sports\"),\n (\"Arts and Crafts\", \"Arts and Crafts\"),\n (\"Clothing\", \"Clothing\"),\n …",
+        "url": "https://stackoverflow.com/questions/72610429/typeerror-modelbase-object-is-not-iterable-when-trying-to-use-exclude",
+        "urlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+        "publishedAt": "2022-06-14T01:06:14Z",
+        "content": "I have the following two models:\r\nclass Listings(models.Model):\r\n CATEGORY = [\r\n (\"Miscellaneous\", \"Miscellaneous\"),\r\n (\"Movies and Television\", \"Movies and Television\"),\r\n (\"Sports\", \"Sports\"),\r\n (\"… [+1089 chars]"
+      },
+      {
+        "source": {  "name": "Gixtools.net" },
+        "id":8,
+        "author": "GIXnews",
+        "title": "“Downthem” DDoS-for-Hire Boss Gets 2 Years in Prison",
+        "description": "A 33-year-old Illinois man was sentenced to two years in prison today following his conviction last year for operating services that allowed paying customers to launch powerful distributed denial-of-service (DDoS) attacks against hundreds of thousands of Inte…",
+        "url": "https://gixtools.net/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/",
+        "urlToImage": "https://krebsonsecurity.com/wp-content/uploads/2018/12/downthempanel2.jpg",
+        "publishedAt": "2022-06-14T01:03:00Z",
+        "content": "A 33-year-old Illinois man was sentenced to two years in prison today following his conviction last year for operating services that allowed paying customers to launch powerful distributed denial-of-… [+4191 chars]"
+      },
+      {
+        "source": {  "name": "Mindsdb.com" },
+        "id":9,
+        "author": "Costa Tin",
+        "title": "Why Your Database Needs a Machine Learning Brain",
+        "description": "The past 10-15 years have seen organizations put vast resources into creating databases that let them understand their business better, spot trends earlier, and manage tasks more effectively.\nIndeed, a whole industry has now grown up around it, not just with …",
+        "url": "https://mindsdb.com/blog/why-your-database-needs-a-machine-learning-brain/",
+        "urlToImage": "https://dz2cdn4.dzone.com/storage/article-thumb/15964807-thumb.jpg",
+        "publishedAt": "2022-06-14T00:56:55Z",
+        "content": "The past 10-15 years have seen organizations put vast resources into creating databases that let them understand their business better, spot trends earlier, and manage tasks more effectively.\r\nIndeed… [+6945 chars]"
+      },
+      {
+        "source": {  "name": "Babajiji.com" },
+        "id":10,
+        "author": "Yuri Nomura",
+        "title": "Airbnb even offers and you may renters have been Totally linking additionally the company is mostly okay having-they",
+        "description": "Airbnb even offers and you may renters have been Totally linking additionally the company is mostly okay havin […]",
+        "url": "http://www.babajiji.com/131734",
+        "urlToImage": null,
+        "publishedAt": "2022-06-14T00:50:12Z",
+        "content": "Yuri Nomura | 2022.06.14 \r\nAirbnb even offers and you may renters have been Totally linking additionally the company is mostly okay having-they\r\nFolks are making use of Airbnb’s rooms services in ord… [+6309 chars]"
+      },
+      {
+        "source": {  "name": "Babajiji.com" },
+        "id":11,
+        "author": "Yuri Nomura",
+        "title": "There’s a lot of top quality matchmaking software, but the most readily useful dating website for single mothers is actually eharmony",
+        "description": "There’s a lot of top quality matchmaking software, but the most readily useful dating website for single […]",
+        "url": "http://www.babajiji.com/131732",
+        "urlToImage": null,
+        "publishedAt": "2022-06-14T00:48:52Z",
+        "content": "Yuri Nomura | 2022.06.14 \r\nThere’s a lot of top quality matchmaking software, but the most readily useful dating website for single mothers is actually eharmony\r\nIf you are new to online dating as on… [+4519 chars]"
+      },
+      {
+        "source": {  "name": "The Boston Globe" },
+        "id":12,
+        "author": "Felice J. Freyer",
+        "title": "Advocates for safe consumption sites in Mass. find hope in shifting political winds as overdose deaths soar",
+        "description": "“There’s been a lot of change regionally, locally, that I think is building momentum for it,” said state Representative Dylan A. Fernandes, sponsor of a bill that would establish a 10-year pilot program involving centers where people can use drugs under medic…",
+        "url": "https://www.bostonglobe.com/2022/06/13/metro/advocates-safe-consumption-sites-mass-find-hope-shifting-political-winds-overdose-deaths-soar/",
+        "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/wUud9sR-xMzE89uhvbyi1o21A6E=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SFYW344WCYVOZNSNTD6EW6VNL4.jpg",
+        "publishedAt": "2022-06-14T00:37:44Z",
+        "content": "What Sciortino and others are waiting for, and working toward, is the long-discussed establishment of centers where people can bring in drugs theyve obtained elsewhere and use them under the watchful… [+6739 chars]"
+      },
+      {
+        "source": {  "name": "Krebs on Security" },
+        "id":13,
+        "author": "todsacerdoti",
+        "title": "“Downthem” DDoS-for-Hire Boss Gets 2 Years in Prison",
+        "description": "A 33-year-old Illinois man was sentenced to two years in prison today following his conviction last year for operating services that allowed paying customers to launch powerful distributed denial-of-service (DDoS) attacks against hundreds of thousands of Inte…",
+        "url": "https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/",
+        "urlToImage": "https://krebsonsecurity.com/wp-content/uploads/2018/12/downthempanel2.jpg",
+        "publishedAt": "2022-06-14T00:12:54Z",
+        "content": "A 33-year-old Illinois man was sentenced to two years in prison today following his conviction last year for operating services that allowed paying customers to launch powerful distributed denial-of-… [+4188 chars]"
+      },
+      {
+        "source": {  "name": "Raywenderlich.com" },
+        "id":14,
+        "author": null,
+        "title": "In-App Purchases [SUBSCRIBER]",
+        "description": "<p>Updated for 2022! In-App Purchase offers additional revenue streams for developers other than the initial purchase from the App Store.\nThis can be great for unlocking functionality, providing additional content or for in-game currency.</p>\n<p>This course c…",
+        "url": "https://www.raywenderlich.com/30506103-in-app-purchases",
+        "urlToImage": "https://assets.robles.raywenderlich.com/videos/4b57615649bda807f135a2846a66b114d706d660bace3bef836aebd83bfb4370/images/748101fc92935959cd16316c140e29bf/original.png",
+        "publishedAt": "2022-06-14T00:00:00Z",
+        "content": "Getting Started\r\nInterested in incorporating in-app purchases into your app? This course teaches you how to do just that. Find out whats involved and what youll learn.\r\n1\r\nUnderstand the various type… [+1381 chars]"
+      },
+      {
+        "source": {  "name": "TheJournal.ie" },
+        "id":15,
+        "author": "Lauren Boland",
+        "title": "Carer told to repay social welfare payment after teen son's death calls for system reform",
+        "description": "The proposal would prevent family carers from being immediately cut off from supports if a disabled child dies at age 16 or older.",
+        "url": "https://www.thejournal.ie/carers-social-welfare-children-deaths-5789627-Jun2022/",
+        "urlToImage": "https://img2.thejournal.ie/article/5789627/river/?height=400&version=5789716",
+        "publishedAt": "2022-06-13T23:05:20Z",
+        "content": "A CARER WHOSE teenage son passed away last month is calling on the government to close a gap in the social welfare system upon the death of a disabled child aged 16 or over.\r\nTracy McGinnis, who lost… [+5731 chars]"
+      },
+      {
+        "source": {  "name": "Kernel.org" },
+        "id":16,
+        "author": "Junio C Hamano",
+        "title": "Merge branch 'sn/fsmonitor-missing-clock'",
+        "description": null,
+        "url": "https://git.kernel.org/pub/scm/git/git.git/commit/?id=70055ef1bf813e184d2594a0dd8f733caead6ed3",
+        "urlToImage": null,
+        "publishedAt": "2022-06-13T22:53:43Z",
+        "content": "Sample watchman interface hook sometimes failed to produce\r\ncorrectly formatted JSON message, which has been corrected.\r\n* sn/fsmonitor-missing-clock:\r\n fsmonitor: query watchman with right valid jso… [+597 chars]"
+      },
+      {
+        "source": {  "name": "EFF" },
+        "id":17,
+        "author": "Bennett Cyphers",
+        "title": "How the federal government buys our cell phone location data",
+        "description": "Over the past few years, data brokers and federal military, intelligence, and law enforcement agencies have formed a vast, secretive partnership to surveil the movements of millions of people. Many of the mobile apps on our cell phones track our movements wit…",
+        "url": "https://www.eff.org/deeplinks/2022/06/how-federal-government-buys-our-cell-phone-location-data",
+        "urlToImage": "https://www.eff.org/files/eff-og.png",
+        "publishedAt": "2022-06-13T22:45:29Z",
+        "content": "Over the past few years, data brokers and federal military, intelligence, and law enforcement agencies have formed a vast, secretive partnership to surveil the movements of millions of people. Many o… [+27001 chars]"
+      },
+      {
+        "source": {  "name": "Wordpress.org" },
+        "id":18,
+        "author": "Jb Audras",
+        "title": "A Week in Core – June 13, 2022",
+        "description": "Welcome back to a new issue of Week in Core. Let’s take a look at what changed on Trac between June 6 and June 13, 2022. 27 commits 48 contributors 45 tickets created 10 tickets reopened 36 tickets closed The Core team is currently working on the next major r…",
+        "url": "https://make.wordpress.org/core/2022/06/13/a-week-in-core-june-13-2022/",
+        "urlToImage": "https://s.w.org/images/backgrounds/wordpress-bg-medblue.png",
+        "publishedAt": "2022-06-13T22:33:24Z",
+        "content": "Welcome back to a new issue of Week in CoreCoreCore is the set of software required to run WordPress. The Core Development Team builds WordPress.. Lets take a look at what changed on TracTracAn open … [+6210 chars]"
+      },
+      {
+        "source": {  "name": "Reason" },
+        "id":19,
+        "author": "Eugene Volokh",
+        "title": "Texas Ban on \"Transmitting\" Nude Photos Without Request or Consent: Does It Apply Just to Posting Them Online?",
+        "description": "It looks like it was intended to cover unwanted sexual images sent to a particular person, but its text seems broad enough to potentially cover even posting things on your own site.",
+        "url": "https://reason.com/volokh/2022/06/13/texas-ban-on-transmitting-nude-photos-without-request-or-consent-does-it-apply-just-to-posting-them-online/",
+        "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/11/the-volokh-conspiracy.jpg",
+        "publishedAt": "2022-06-13T22:22:13Z",
+        "content": "Texas Penal Code § 21.19(b) (\"Unlawful electronic transmission of sexually explicit visual material\") makes it a crime to\nknowingly transmit[] by electronic means visual material that:\n(1)  depicts:\n… [+2538 chars]"
+      },
+      {
+        "source": {  "name": "Nationalcybersecurity.com" },
+        "id":20,
+        "author": "NCS News-Feed",
+        "title": "The many lives of BlackCat ransomware | #emailsecurity | #phishing | #ransomware | #cybersecurity | #infosecurity | #hacker",
+        "description": "The BlackCat ransomware, also known as ALPHV, is a prevalent threat and a prime example of the growing ransomware-as-a-service (RaaS) gig economy. It’s notewo",
+        "url": "https://nationalcybersecurity.com/the-many-lives-of-blackcat-ransomware-emailsecurity-phishing-ransomware-cybersecurity-infosecurity-hacker/",
+        "urlToImage": "https://nationalcybersecurity.com/wp-content/uploads/fig1-blackcat-payload-deployment-options.png",
+        "publishedAt": "2022-06-13T21:55:00Z",
+        "content": "The BlackCat ransomware, also known as ALPHV, is a prevalent threat and a prime example of the growing ransomware-as-a-service (RaaS) gig economy. Its noteworthy due to its unconventional programming… [+24460 chars]"
+      }
+    ]
+  }
+  

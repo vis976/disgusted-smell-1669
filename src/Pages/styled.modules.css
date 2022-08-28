@@ -1,0 +1,130 @@
+.mainlook{
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 8px;
+    padding: 30px;
+}
+.firstlook{
+    width: 75%;
+    height: auto;
+    border: 1px solid red;
+}
+.secondlook{
+    width: 24%;
+    height: auto;
+    border: 1px solid black;
+
+}
+p{
+    font-size: 16px;
+}
+.navlink:hover {
+        color: red;
+}
+.mainbusiness{
+display: flex;
+justify-content: space-between;
+width: 100%;
+padding: 30px;
+}
+.firstbusiness{
+    width: 50%;
+}
+.secbusiness{
+    width:20%
+}
+.thirdbusiness{
+    width: 20%;
+}
+.advertisment{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+}
+.advertismentimg{
+    
+    margin-left: 20%;
+}
+.active:hover{
+    color: red;
+}
+.listtag{
+    width: 40%;
+    /* border: 1px solid grey; */
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.listtag>ul>li{
+    list-style: square;
+    margin-left: 20px;
+}
+.MainDiv{
+    display: flex;
+    margin-top: 2%;
+
+}
+.child1{
+        width: 48%;
+        border-left: 1px solid grey;
+        margin-left: 1%;
+        height: 100%;
+}
+.child2{
+    width: 48%;
+    margin-left: 2%;
+    border-left: 1px solid grey;
+    height: 100%;
+
+}
+/* .imglef{
+        margin-left: 240px;
+        margin-top: 100px;
+} */
+.head1{
+    font-size: 26px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#imagpara{
+    display: flex;
+}
+#imagpara>p{
+    width: 50%;
+    margin-left: 5px;
+}
+#imagpara>img{
+    width: 47%;
+}
+#lastdiv{
+    display:flex;
+
+}
+#lastdiv>p{
+  width: 48%;
+  margin-top: 20px;
+  background-color: #f5f5f5;
+  height: 200px;
+  
+}
+#head3{
+    font-size: 26px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* @media only screen and (min-width:543px) and (max-width:1056px){
+    .mainlook{
+        display: flex;
+        width: 100%;
+        height: auto;
+       
+        margin: auto;
+        justify-content: space-between;
+        margin-top: 8px;
+    }
+} */
